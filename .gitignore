@@ -9,6 +9,7 @@ wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
 wp-content/themes/beauty_store/node_modules/
+wp-content/themes/beauty_store/woocommerce/
 
 /.htaccess
 /license.txt
