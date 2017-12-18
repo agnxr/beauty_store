@@ -12,4 +12,7 @@ Used technologies:
 * jQuery
 * PHP
 
-![picture](beautystore.png)
+
+![alt text](beautystore.png)
+
+<img src="beautystore.png">
