@@ -1,0 +1,80 @@
+2017-11-23T13:21:17+00:00 CRITICAL Uncaught Error: Call to undefined function the_thumbnail() in /home/agnieszka/Workspace/beautystore/wp-content/themes/beautystore/front-page.php:40
+Stack trace:
+#0 /home/agnieszka/Workspace/beautystore/wp-includes/template-loader.php(74): include()
+#1 /home/agnieszka/Workspace/beautystore/wp-blog-header.php(19): require_once('/home/agnieszka...')
+#2 /home/agnieszka/Workspace/beautystore/index.php(17): require('/home/agnieszka...')
+#3 {main}
+  thrown
+
+2017-11-23T13:21:23+00:00 CRITICAL Uncaught Error: Call to undefined function the_thumbnail() in /home/agnieszka/Workspace/beautystore/wp-content/themes/beautystore/front-page.php:40
+Stack trace:
+#0 /home/agnieszka/Workspace/beautystore/wp-includes/template-loader.php(74): include()
+#1 /home/agnieszka/Workspace/beautystore/wp-blog-header.php(19): require_once('/home/agnieszka...')
+#2 /home/agnieszka/Workspace/beautystore/index.php(17): require('/home/agnieszka...')
+#3 {main}
+  thrown
+
+2017-11-23T13:21:54+00:00 CRITICAL Uncaught Error: Call to undefined function the_thumbnail() in /home/agnieszka/Workspace/beautystore/wp-content/themes/beautystore/front-page.php:40
+Stack trace:
+#0 /home/agnieszka/Workspace/beautystore/wp-includes/template-loader.php(74): include()
+#1 /home/agnieszka/Workspace/beautystore/wp-blog-header.php(19): require_once('/home/agnieszka...')
+#2 /home/agnieszka/Workspace/beautystore/index.php(17): require('/home/agnieszka...')
+#3 {main}
+  thrown
+
+2017-11-23T13:24:39+00:00 CRITICAL Uncaught Error: Call to undefined function the_product() in /home/agnieszka/Workspace/beautystore/wp-content/themes/beautystore/front-page.php:40
+Stack trace:
+#0 /home/agnieszka/Workspace/beautystore/wp-includes/template-loader.php(74): include()
+#1 /home/agnieszka/Workspace/beautystore/wp-blog-header.php(19): require_once('/home/agnieszka...')
+#2 /home/agnieszka/Workspace/beautystore/index.php(17): require('/home/agnieszka...')
+#3 {main}
+  thrown
+
+2017-11-23T13:26:26+00:00 CRITICAL Uncaught Error: Call to undefined function the_product_image() in /home/agnieszka/Workspace/beautystore/wp-content/themes/beautystore/front-page.php:40
+Stack trace:
+#0 /home/agnieszka/Workspace/beautystore/wp-includes/template-loader.php(74): include()
+#1 /home/agnieszka/Workspace/beautystore/wp-blog-header.php(19): require_once('/home/agnieszka...')
+#2 /home/agnieszka/Workspace/beautystore/index.php(17): require('/home/agnieszka...')
+#3 {main}
+  thrown
+
+2017-11-23T13:28:03+00:00 CRITICAL Uncaught Error: Call to undefined function the_product() in /home/agnieszka/Workspace/beautystore/wp-content/themes/beautystore/front-page.php:40
+Stack trace:
+#0 /home/agnieszka/Workspace/beautystore/wp-includes/template-loader.php(74): include()
+#1 /home/agnieszka/Workspace/beautystore/wp-blog-header.php(19): require_once('/home/agnieszka...')
+#2 /home/agnieszka/Workspace/beautystore/index.php(17): require('/home/agnieszka...')
+#3 {main}
+  thrown
+
+2017-11-23T13:28:10+00:00 CRITICAL Uncaught Error: Call to undefined function the_product() in /home/agnieszka/Workspace/beautystore/wp-content/themes/beautystore/front-page.php:40
+Stack trace:
+#0 /home/agnieszka/Workspace/beautystore/wp-includes/template-loader.php(74): include()
+#1 /home/agnieszka/Workspace/beautystore/wp-blog-header.php(19): require_once('/home/agnieszka...')
+#2 /home/agnieszka/Workspace/beautystore/index.php(17): require('/home/agnieszka...')
+#3 {main}
+  thrown
+
+2017-11-23T13:30:25+00:00 CRITICAL Uncaught Error: Call to undefined function the_product() in /home/agnieszka/Workspace/beautystore/wp-content/themes/beautystore/front-page.php:40
+Stack trace:
+#0 /home/agnieszka/Workspace/beautystore/wp-includes/template-loader.php(74): include()
+#1 /home/agnieszka/Workspace/beautystore/wp-blog-header.php(19): require_once('/home/agnieszka...')
+#2 /home/agnieszka/Workspace/beautystore/index.php(17): require('/home/agnieszka...')
+#3 {main}
+  thrown
+
+2017-11-24T09:37:11+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_get_template_part_url() in /home/agnieszka/Workspace/beautystore/wp-content/themes/beautystore/front-page.php:73
+Stack trace:
+#0 /home/agnieszka/Workspace/beautystore/wp-includes/template-loader.php(74): include()
+#1 /home/agnieszka/Workspace/beautystore/wp-blog-header.php(19): require_once('/home/agnieszka...')
+#2 /home/agnieszka/Workspace/beautystore/index.php(17): require('/home/agnieszka...')
+#3 {main}
+  thrown
+
+2017-11-24T11:36:33+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_get_product_thumbnail_url() in /home/agnieszka/Workspace/beautystore/wp-content/themes/beautystore/front-page.php:160
+Stack trace:
+#0 /home/agnieszka/Workspace/beautystore/wp-includes/template-loader.php(74): include()
+#1 /home/agnieszka/Workspace/beautystore/wp-blog-header.php(19): require_once('/home/agnieszka...')
+#2 /home/agnieszka/Workspace/beautystore/index.php(17): require('/home/agnieszka...')
+#3 {main}
+  thrown
+
