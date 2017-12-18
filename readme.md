@@ -13,6 +13,6 @@ Used technologies:
 * PHP
 
 
-![alt text](beautystore.png)
+![alt text](./beautystore.png)
 
-<img src="beautystore.png">
+<img src="./beautystore.png">
