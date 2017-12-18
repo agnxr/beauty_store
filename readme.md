@@ -13,6 +13,8 @@ Used technologies:
 * PHP
 
 
-![alt text](./beautystore.png)
+![Alt text](./beautystore.png?raw=true)
 
 <img src="./beautystore.png">
+
+
