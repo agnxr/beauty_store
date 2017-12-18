@@ -12,5 +12,4 @@ Used technologies:
 * jQuery
 * PHP
 
-
-<img src="../beautystore.png">
+![picture](beautystore.png)
