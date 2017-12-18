@@ -7,8 +7,10 @@ Used technologies:
 
 * Wordpress
 * WooCommerce
+* HTML
 * SASS
 * jQuery
+* PHP
 
 
-<img src="beautystore.png">
+<img src="../beautystore.png">
