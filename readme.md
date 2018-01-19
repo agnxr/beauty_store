@@ -9,6 +9,7 @@ Used technologies:
 * WooCommerce
 * HTML
 * SASS
+* Gulp
 * jQuery
 * PHP
 
