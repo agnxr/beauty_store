@@ -3,7 +3,7 @@
 
 Wordpress Online Store Theme: shop with cosmetics. 
 
-Used technologies:
+Technologies used:
 
 * Wordpress
 * WooCommerce
